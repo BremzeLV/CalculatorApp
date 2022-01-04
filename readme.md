@@ -1,9 +1,8 @@
 ## Setup
 Pull the repo <br />
 Do `npm install`<br />
-Do `npx react-native run-windows`
+Do `expo start` <br />
 
 or
 
-Follow this for Windows setup https://microsoft.github.io/react-native-windows/docs/getting-started -> With VS Code
-
+Do `npx react-native run-windows`
